@@ -1,2 +1,2 @@
 # Data-Analysis
-This if for Data analysis projects
+This is for Data analysis projects
