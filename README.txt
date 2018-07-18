@@ -1,8 +1,9 @@
 ********************************************************************************************
+***************** Bertrand Ndakena, Telecom and IT Eng.*************************************
 **********This is meant to help the user of this script run the code easily****************
 ********************************************************************************************
                        **************************************
-                       ******EXPLORE US BIKE SHARE DATA******
+                       ******EXPLORING US BIKE SHARE DATA******
                        **************************************
 ## Introduction
 Over the past decade, bicycle-sharing systems have been growing in number and popularity in cities across the world. Bicycle-sharing systems allow users to rent bicycles on a very short-term basis for a price. This allows people to borrow a bike from point A and return it at point B, though they can also return it to the same location if they'd like to just go for a ride. Regardless, each bike can serve several users per day.
@@ -14,11 +15,11 @@ In this project,I used the data provided compare the system usage between three 
 You can run the script using a Python integrated development environment (IDE) such as spyder. To install spyder, you will need to [download the Anaconda installer](https://www.anaconda.com/download/). This script is written in Python 3, so you will need the Python 3.x version of the installer. After downloading and installing Anaconda, you will find the spyder IDE by opening Anaconda Navigator. lauch the spyder, click on  open file and locate the script file.
 
 ## NOTE!!!:
-1-Please do not forget to place the csv data files in the same location as the script file (bikeshare.py)
-2- The csv files most have as names, chicago.csv, new_york_city.csv and washington.csv, otherwise, the script won't run.
+1- place the csv data files in the same location as the script file (bikeshare.py)
+2- make sure the csv files are  named, chicago.csv, new_york_city.csv and washington.csv, otherwise, the script won't run.
 
 ## Datasets
-The datasets used for this script contain bike share data for the first six months of 2017. I randomly selected data for the first six months of 2017, provided for all three cities, Chicago, New York City and Washington.
+These datasets contain bike share data for the first six months of 2017. I randomly selected data for the first six months of 2017, provided for all three cities, Chicago, New York City and Washington.
 
 The data is provided by [Motivate](https://www.motivateco.com/), which is a bike share system provider for many cities in the United States. The data files are to be placed in the same location as the this script file:
 
