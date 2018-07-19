@@ -2,8 +2,8 @@
 This is for Data analysis projects
 
 ********************************************************************************************
-***************** Bertrand Ndakena, Telecom and IT Eng.*************************************
-**********This is meant to help the user of this script run the code easily****************
+<p>Bertrand Ndakena, Telecom and IT Eng.</p>
+<p>This is meant to help the user of this script run the code easily</p>
 ********************************************************************************************
                        **************************************
                        ******EXPLORING US BIKE SHARE DATA******
